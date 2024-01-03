@@ -5,6 +5,12 @@
 
 // import ManualHeader from "./manualheader/page";
 import LotteryEntrance from "./lotteryentrace/page";
+import type { Metadata } from 'next'
+
+export const metadata: Metadata = {
+  title: 'Lottery - Dapp',
+  description: 'Decentralized lottery dapp.',
+}
 
 
 export default function Home() {
