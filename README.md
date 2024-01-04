@@ -2,6 +2,9 @@
 
 Welcome to my Lottery Dapp project! This decentralized application (DApp) combines the Hardhat for smart contract development and the Next.js for frontend. Dive into the world of decentralized lotteries with this project.
 
+## See it live at:
+(https://lottery-dapp-blue.vercel.app/)
+
 ## Features
 
 - **Smart Contract:**
